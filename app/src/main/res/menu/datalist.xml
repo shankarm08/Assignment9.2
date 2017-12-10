@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/computer"
+
+            android:title="Computer"/>
+        <item
+            android:id="@+id/gamepad"
+            android:title="Gamepad"/>
+        <item
+            android:id="@+id/camera"
+            android:title="Camera"/>
+    <item
+        android:id="@+id/video"
+        android:title="Video"/>
+    <item
+        android:id="@+id/email"
+        android:title="Email"/>
+    </menu>
+
